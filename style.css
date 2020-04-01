@@ -1,0 +1,42 @@
+body {
+	width: 600px;
+	margin-left: 600px;
+	background-color: #EFEDE3;
+}
+
+header *{
+	display: inline;
+	margin-bottom: -30px;
+}
+
+#functions {
+	border: 2px solid black;
+}
+
+#functions h2 {
+	margin-left: 250px;
+}
+
+main {
+	margin-top: 50px;
+}
+
+#arrow * {
+	display: inline;
+	margin-left: 55px;
+}
+
+.functionList {
+	list-style: none;
+}
+
+.functionList * {
+	font-size: 50px;
+	display: inline;
+	margin-left: 25px;
+	width: 80px;
+}
+
+.hidden {
+	display: none;
+}

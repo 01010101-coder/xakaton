@@ -14,7 +14,7 @@ header *{
 }
 
 #functions h2 {
-	margin-left: 250px;
+	margin-left: 230px;
 }
 
 main {
@@ -31,12 +31,24 @@ main {
 }
 
 .functionList * {
-	font-size: 50px;
+	font-size: 20px;
+	
+}
+
+.functionList li {
+	margin-left: 10px;
 	display: inline;
-	margin-left: 25px;
-	width: 80px;
+}
+
+.functionList button {
+	width: 127px;
+	height: 90px;
 }
 
 .hidden {
 	display: none;
+}
+
+p {
+	font-size: 23px;
 }
